@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Durgesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durgeshnarute-261194/)](https://www.linkedin.com/in/durgeshnarute-261194/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Durgesh-yellow)]([(https://stackoverflow.com/users/22043220/durgesh-narute)](https://stackoverflow.com/users/22043220/durgesh-narute))
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Durgesh-yellow)](https://stackoverflow.com/users/22043220/durgesh-narute)
 
 I'm
 Software Tester QA,
